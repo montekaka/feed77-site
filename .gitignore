@@ -1,0 +1,14 @@
+# package directories
+node_modules
+.esbuild
+
+# Serverless directories
+.serverless
+
+# .DS_Store file
+.DS_Store
+
+# .build files
+.build
+
+.env
